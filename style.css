@@ -1,0 +1,300 @@
+*{
+	margin:0;
+	padding:0;
+}
+ul,li{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
+.header-area {
+    background: #FAB700;
+    min-height: 100px;
+}
+.container {
+    width: 1170px;
+    margin: auto;
+}
+.header-part{}
+.logo {
+    width: 25%;
+    float: left;
+    margin-top: 29px;
+}
+
+.logo a img{}
+.menu {
+    width: 75%;
+    float: left;
+    text-align: right;
+}
+.menu ul{}
+.menu ul li {
+    display: inline-block;
+    margin-left: 42px;
+}
+.menu ul li a {
+    color: #fff;
+    font-size: 15px;
+    text-transform: uppercase;
+    display: block;
+    padding: 38px 0;
+    font-weight: bold;
+}
+.banner-part {
+    background: #BD8B03;
+    overflow: hidden;
+}
+.banner-area{}
+.banner-area h5 {
+    padding-top: 142px;
+    color: #fff;
+    text-transform: capitalize;
+    margin-bottom: 17px;
+}
+.banner-area h1 {
+    color: #fff;
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+.banner-area p {
+    color: #fff;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+.banner-area a {
+    text-decoration: none;
+    border: 1px solid #FAB700;
+    padding: 15px 20px;
+    display: block;
+    width: 10%;
+    text-align: center;
+    color: #fff;
+    background: #FAB700;
+    font-weight: bold;
+    margin-bottom: 150px;
+}
+.featurea-area {
+    overflow: hidden;
+}
+.feature-head {
+    margin: 50px 0;
+    text-align: center;
+}
+.feature-head h3 {
+    text-transform: uppercase;
+    margin-bottom: 6px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.feature-head p {
+    color: gray;
+}
+.single-feature {
+    width: 33%;
+    float: left;
+    background: #f1f1f1;
+    padding: 0 10px;
+    box-sizing: border-box;
+	margin-bottom:50px;
+}
+.single-feature img {
+    width: 100%;
+    margin-bottom: 15px;
+}
+.single-feature h3 {
+    text-transform: capitalize;
+    color: gray;
+    margin-bottom: 15px;
+}
+.single-feature p {
+    text-align: justify;
+}
+.service-area {
+    background: #F9F9FF;
+    overflow: hidden;
+    padding-bottom: 40px;
+}
+.service-head {
+    text-align: center;
+    margin: 40px 0;
+}
+.service-head h3 {
+    text-transform: capitalize;
+    margin-bottom: 5px;
+}
+.service-head p {
+    color: gray;
+}
+.single-service {
+    width: 30%;
+    float: left;
+    background: #fff;
+    padding: 42px;
+    box-sizing: border-box;
+   margin: 15px 15px;
+}
+.single-service h3{
+	text-transform:capitalize;
+}
+.single-service p{
+	color:gray;
+}
+.time-area {
+    background: #FAB700;
+    overflow: hidden;
+    padding: 50px 0;
+}
+.time-count {
+    width: 20%;
+    float: left;
+}
+.time-count h2 {
+    text-align: center;
+    font-size: 35px;
+}
+.time-count p {
+    text-align: center;
+    color: gray;
+}
+.fortpolio-area{}
+.port-header {
+    text-align: center;
+    margin: 40px 0;
+}
+.port-header h3 {
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.port-header p {
+    color: gray;
+}
+.img-part {
+    display: inline;
+    margin: 10px;
+}
+.img-part img{}
+.forum-area {
+    overflow: hidden;
+}
+.forum-head {
+    text-align: center;
+    margin: 70px 0;
+}
+.forum-head h2 {
+    text-transform: capitalize;
+    margin-bottom: 10px;
+}
+.forum-head p{
+	color:gray;
+}
+.single-forum {
+    width: 25%;
+    float: left;
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+.single-forum img {
+    width: 100%;
+}
+.single-forum h5 {
+    margin-top: 10px;
+    background: #000;
+    color: #fff;
+    width: 36%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.single-forum h2 {
+    margin-bottom: 10px;
+}
+.single-forum p{
+	color:gray;
+}
+.footer-area {
+    background: #04091E;
+    padding: 50px 0;
+    margin-top: 80px;
+}
+.footer-part {
+    overflow: hidden;
+    margin-top: 30px;
+}
+.about-us {
+    width: 31%;
+    float: left;
+}
+.about-us h1 {
+    color: #fff;
+    text-transform: uppercase;
+    margin-bottom: 21px;
+    font-size: 20px;
+}
+.about-us span {
+    color: gray;
+}
+.about-us p {
+    color: gray;
+    margin-top: 29px;
+}
+.about-us p span {
+    color: #FAB700;
+}
+.newsletter {
+    width: 25%;
+    float: left;
+    margin-left: 114px;
+    overflow: hidden;
+	position:relative;
+}
+.newsletter h1 {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 20px;
+	margin-bottom: 20px;
+}
+.newsletter p {
+    color: gray;
+    margin-bottom: 15px;
+}
+.newsletter form input[type=email] {
+    width: 100%;
+    padding: 6px;
+	
+}
+.newsletter form i {
+    position: absolute;
+    top: 76px;
+    right: 0px;
+    background: #FFC107;
+    color: #fff;
+    width: 7%;
+    height: 31%;
+    padding: 7px 10px;
+}
+
+.follow-us {
+    width: 25%;
+    overflow: hidden;
+    float: right;
+}
+.follow-us h1 {
+    color: #fff;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.follow-us p {
+    color: gray;
+    margin: 10px;
+}
+.font-icon{
+	color: #fff;
+}
+
+.font-icon i {
+    margin-left: 10px;
+}
+
