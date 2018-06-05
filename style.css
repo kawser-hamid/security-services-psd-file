@@ -248,7 +248,7 @@ a{
     float: left;
     margin-left: 114px;
     overflow: hidden;
-	position:relative;
+    position:relative;
 }
 .newsletter h1 {
     color: #fff;
@@ -267,7 +267,7 @@ a{
 }
 .newsletter form i {
     position: absolute;
-    top: 76px;
+    top:80px;
     right: 0px;
     background: #FFC107;
     color: #fff;
