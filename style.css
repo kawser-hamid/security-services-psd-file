@@ -61,11 +61,13 @@ a{
     color: #fff;
     margin-bottom: 20px;
     font-size: 50px;
+	font-family: 'Song Myung', serif;
 }
 .banner-area p {
     color: #fff;
     font-size: 16px;
     margin-bottom: 30px;
+  font-family: 'Song Myung', serif;
 }
 .banner-area a {
     text-decoration: none;
@@ -78,6 +80,7 @@ a{
     background: #FAB700;
     font-weight: bold;
     margin-bottom: 150px;
+font-family: 'Song Myung', serif;
 }
 .featurea-area {
     overflow: hidden;
@@ -91,6 +94,7 @@ a{
     margin-bottom: 6px;
     font-weight: bold;
     font-size: 25px;
+	font-family: 'Song Myung', serif;
 }
 .feature-head p {
     color: gray;
@@ -102,6 +106,7 @@ a{
     padding: 0 10px;
     box-sizing: border-box;
 	margin-bottom:50px;
+	font-family: 'Song Myung', serif;
 }
 .single-feature img {
     width: 100%;
@@ -111,9 +116,11 @@ a{
     text-transform: capitalize;
     color: gray;
     margin-bottom: 15px;
+	font-family: 'Song Myung', serif;
 }
 .single-feature p {
     text-align: justify;
+	font-family: 'Song Myung', serif;
 }
 .service-area {
     background: #F9F9FF;
@@ -127,9 +134,11 @@ a{
 .service-head h3 {
     text-transform: capitalize;
     margin-bottom: 5px;
+	font-family: 'Song Myung', serif;
 }
 .service-head p {
     color: gray;
+	font-family: 'Song Myung', serif;
 }
 .single-service {
     width: 30%;
@@ -141,9 +150,11 @@ a{
 }
 .single-service h3{
 	text-transform:capitalize;
+	font-family: 'Song Myung', serif;
 }
 .single-service p{
 	color:gray;
+	font-family: 'Song Myung', serif;
 }
 .time-area {
     background: #FAB700;
@@ -157,10 +168,12 @@ a{
 .time-count h2 {
     text-align: center;
     font-size: 35px;
+	font-family: 'Song Myung', serif;
 }
 .time-count p {
     text-align: center;
     color: gray;
+	font-family: 'Song Myung', serif;
 }
 .fortpolio-area{}
 .port-header {
@@ -170,9 +183,11 @@ a{
 .port-header h3 {
     text-transform: uppercase;
     margin-bottom: 10px;
+	font-family: 'Song Myung', serif;
 }
 .port-header p {
     color: gray;
+	font-family: 'Song Myung', serif;
 }
 .img-part {
     display: inline;
@@ -189,6 +204,7 @@ a{
 .forum-head h2 {
     text-transform: capitalize;
     margin-bottom: 10px;
+	font-family: 'Song Myung', serif;
 }
 .forum-head p{
 	color:gray;
@@ -209,12 +225,15 @@ a{
     width: 36%;
     padding: 5px;
     margin-bottom: 10px;
+	font-family: 'Song Myung', serif;
 }
 .single-forum h2 {
     margin-bottom: 10px;
+	font-family: 'Song Myung', serif;
 }
 .single-forum p{
 	color:gray;
+	font-family: 'Song Myung', serif;
 }
 .footer-area {
     background: #04091E;
@@ -234,16 +253,20 @@ a{
     text-transform: uppercase;
     margin-bottom: 21px;
     font-size: 20px;
+	font-family: 'Song Myung', serif;
 }
 .about-us span {
     color: gray;
+	font-family: 'Song Myung', serif;
 }
 .about-us p {
     color: gray;
     margin-top: 29px;
+	font-family: 'Song Myung', serif;
 }
 .about-us p span {
     color: #FAB700;
+	font-family: 'Song Myung', serif;
 }
 .newsletter {
     width: 25%;
@@ -257,10 +280,12 @@ a{
     text-transform: uppercase;
     font-size: 20px;
 	margin-bottom: 20px;
+	font-family: 'Song Myung', serif;
 }
 .newsletter p {
     color: gray;
     margin-bottom: 15px;
+	font-family: 'Song Myung', serif;
 }
 .newsletter form input[type=email] {
     width: 100%;
@@ -287,10 +312,12 @@ a{
     color: #fff;
     font-size: 20px;
     margin-bottom: 15px;
+	font-family: 'Song Myung', serif;
 }
 .follow-us p {
     color: gray;
     margin: 10px;
+	font-family: 'Song Myung', serif;
 }
 .font-icon{
 	color: #fff;
